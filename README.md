@@ -1,4 +1,4 @@
-# Lab 24: Plane ol' Carriers
+# Lab 17: Plane ol' Carriers
 
 There are a lot of little classes to be written for today's lab, but many of them (and the methods within) are quite simple! See the posted lab for full instructions.
 
