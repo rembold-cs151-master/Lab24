@@ -9,7 +9,7 @@ class Vehicle:
         self.terrain = terrain
         self.weight = weight
 
-    def __str__(self):
+    def __repr__(self):
         return f"Vehicle({self.terrain},{self.weight})"
 
     def get_terrain(self):
